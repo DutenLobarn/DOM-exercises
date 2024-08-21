@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/a3266ed9-6d92-4483-bdf9-6a327ead15c0)
 
 
 DOM exercises
@@ -13,7 +14,6 @@ Lägga till ny HTML med JS
 
 DOM Selecta!
 ![image](https://github.com/user-attachments/assets/a9c89ecb-5759-4d5d-ad7f-cdf17c511f63)
-![image](https://github.com/user-attachments/assets/bdbd3c7d-fe4e-488d-841e-29065a241325)
 
 
 1. Byt namn på första hoodien från Ash till Potato.
@@ -52,28 +52,7 @@ Add Content
 12. Lägg till ett nytt menyalternativ.
 13. Lägg till en ny produkt med följande info.
 
-
-
-el
-beskrivning
-
-
-
-
-img
-hoodie-forrest.png
-
-
-h2
-Sinus Hoodie
-
-
-h3
-Forrest
-
-
-p
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, dolores.
+![Uploading image.png…]()
 
 
 
