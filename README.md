@@ -53,7 +53,6 @@ Add Content
 13. Lägg till en ny produkt med följande info.
 
 ![image](https://github.com/user-attachments/assets/fbf7178c-c31b-4ec5-966a-5cd83f84fd31)
-![Uploading image.png…]()
 
 
 
