@@ -12,6 +12,9 @@ Lägga till ny HTML med JS
 
 
 DOM Selecta!
+![image](https://github.com/user-attachments/assets/a9c89ecb-5759-4d5d-ad7f-cdf17c511f63)
+![image](https://github.com/user-attachments/assets/bdbd3c7d-fe4e-488d-841e-29065a241325)
+
 
 1. Byt namn på första hoodien från Ash till Potato.
 
